@@ -13,9 +13,3 @@ Use package manager [pip](https://pip.pypa.io/en/stable/) to install dependencie
 pip3 install -r requirements.txt
 ```
 
-## Run
-
-Run main python script to calculate recommendations. Output will be generated in the format of Kaggle submission file (Map@5) to `/datasets/test_results.txt`.
-```shell script
-python3 main.py
-```
